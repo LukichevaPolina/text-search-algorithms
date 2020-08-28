@@ -1,5 +1,6 @@
 # Text Search Algorithms  📄🔍
 An aplication helps to use and compare different text search algorithms on various types of text. The project was build as coursework.
+_________________
 ## How it use?
 
 ### Text generation
@@ -37,7 +38,8 @@ This part shows average result for all text:
 ### Current text result
 This part can show choosing text and its results.
 
-
+________
+## How it install?
 
 
 
